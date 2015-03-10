@@ -1,0 +1,26 @@
+{
+  "name": "http-archive",
+  "version": "0.1.0",
+  "description": "HTTP Archive (HAR)",
+  "license": "MIT",
+  "keywords": [
+    "har",
+    "http",
+    "archive"
+  ],
+  "main": "lib/har",
+  "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jhermsmeier/node-http-archive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhermsmeier/node-http-archive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhermsmeier/node-http-archive/issues"
+  }
+}
