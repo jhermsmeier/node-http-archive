@@ -11,9 +11,12 @@
   "main": "lib/har",
   "author": "Jonas Hermsmeier <jhermsmeier@gmail.com> (https://jhermsmeier.de/)",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "har-validator": "~1.1.2",
+    "mocha": "~2.2.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "homepage": "https://github.com/jhermsmeier/node-http-archive",
   "repository": {
